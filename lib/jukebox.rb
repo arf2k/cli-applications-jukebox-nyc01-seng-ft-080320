@@ -58,4 +58,5 @@ def run(songs)
     else 
       puts "Invalid entry"
     end 
+  end
 end 
